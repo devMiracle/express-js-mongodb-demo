@@ -1,0 +1,21 @@
+{
+  "name": "school-of-artificial-intelligent",
+  "version": "1.0.0",
+  "description": "The Official Web App API For  School Of Artificial Intelligent ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "school",
+    "Artificial",
+    "intelligent"
+  ],
+  "author": "Chuks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2",
+    "req-handler": "^1.0.4"
+  }
+}
